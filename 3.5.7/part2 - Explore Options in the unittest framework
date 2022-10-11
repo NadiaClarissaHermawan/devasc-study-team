@@ -1,0 +1,12 @@
+Nadia Clarissa Hermawan / 6181901013
+
+Q : What unittest class do you use to create an individual unit of testing?
+A : TestCase class
+
+
+Q : How does the test runner know which methods are a test?
+A : method yang akan ditest, nama depan methodnya diawali dengan 'test_'
+
+
+Q : What command will list all of the command line options for unittest shown in the following output?
+A : python3 -m unittest -h
